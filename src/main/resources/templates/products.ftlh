@@ -23,7 +23,7 @@ Hello, BY!
 	Название объявления: <input type="text" name="title"/><br><br>
 	Описание объявления: <input type="text" name="description"/><br><br>
 	Цена: <input type="number" name="price"/><br><br>
-	Город: <input type="text" name="city"/><br><br>
+	Город: <input type="text" name="sity"/><br><br>
 	Имя: <input type="text" name="author"/><br><br>
 	<input type="submit" value="Добавить товар"/>
 </form>
